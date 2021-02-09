@@ -1,2 +1,2 @@
 # gitflow_labs
-Do some gitflow traning
+Do some gitflow traning - basics steps
