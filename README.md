@@ -1,2 +1,5 @@
-# gitflow_labs
-Do some gitflow traning - basics steps
+## Welcome to "GitFlow - self training" with GitHub and Sourcetree
+
+This is a self-created course. 
+
+**Ready to get started? Navigate to the first issue.**
